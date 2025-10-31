@@ -4,16 +4,16 @@ from os import getenv
 
 
 # ------------------------------------------------
-API_ID = int(os.environ.get("API_ID", "28201702"))
+API_ID = int(os.environ.get("API_ID", "26375665"))
 # ------------------------------------------------
-API_HASH = os.environ.get("API_HASH","31c9bbed9c688b89736d94da7e89653b")
+API_HASH = os.environ.get("API_HASH","568839157ce65f4d3a91647f022b6737")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8316222203:AAHcKrVgry3X7T8m84B5enC3Hqos71XFoBc")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8450499510:AAF-Hil0GQFPAWkVXdMvmqh4JIfYLGJER9M")
 # ------------------------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Anjanik_ext_bot")
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "")
 BOT_TEXT = "NIKHIL BHAI Exᴛʀᴀᴄᴛᴏʀ"
 # ------------------------------------------------
-OWNER_ID = int(os.environ.get("OWNER_ID", "7445620075"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "6834250190"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003104845508"))
@@ -26,7 +26,7 @@ MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://ankush23:JYzSGlbjpFezDSWH
 WITHOUT_LOGS = int(os.environ.get("WITHOUT_LOGS", "-1003144196590"))
 PREMIUM_LOGS = WITHOUT_LOGS
 # -----------------------------------------------
-join = '<a href="http://t.me/Anjanik_ext_bot"> Nikhil ♡ Exᴛʀᴀᴄᴛᴏʀ </a>'
+join = '<a href="ht"> Nikhil ♡ Exᴛʀᴀᴄᴛᴏʀ </a>'
 # -----------------------------------------------
 
 # -----------------------------------------------
