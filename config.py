@@ -16,17 +16,17 @@ BOT_TEXT = "NIKHIL BHAI Exᴛʀᴀᴄᴛᴏʀ"
 OWNER_ID = int(os.environ.get("OWNER_ID", "6834250190"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003104845508"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003295813503"))
 
 # //FORCE_CHANNEL_ID
-CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002471859014")) 
+CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1003267941415")) 
 # ------------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://ankush23:JYzSGlbjpFezDSWH@cluster0.ulzzd1m.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # -----------------------------------------------
-WITHOUT_LOGS = int(os.environ.get("WITHOUT_LOGS", "-1003144196590"))
+WITHOUT_LOGS = int(os.environ.get("WITHOUT_LOGS", "-1003184005341"))
 PREMIUM_LOGS = WITHOUT_LOGS
 # -----------------------------------------------
-join = '<a href="ht"> Nikhil ♡ Exᴛʀᴀᴄᴛᴏʀ </a>'
+join = '<a href="ht"> 𝐒нɑᎥ𝚝ɑη ♡ Exᴛʀᴀᴄᴛᴏʀ </a>'
 # -----------------------------------------------
 
 # -----------------------------------------------
